@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="adidassuperstar" size="1.000000 1.000000" />
+    <ImageTarget name="nikeairjordan" size="1.000000 1.000000" />
+    <ImageTarget name="conversechuk70" size="1.000000 1.000000" />
+    <ImageTarget name="nikeairmax" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
